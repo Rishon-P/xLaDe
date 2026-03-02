@@ -56,7 +56,7 @@ mechanisms are considered stable.
 
 ### Highlights
 - License transitioned to **GNU General Public License v3.0 (GPL-3.0)**.
-- Repository finalized as the reference version for the xLaDe research paper.
+- Documentation changes
 
 ### Added
 - Expanded architectural documentation and rationale.
@@ -65,7 +65,7 @@ mechanisms are considered stable.
 - Improved contributor-facing guidance.
 
 ### Changed
-- README rewritten to reflect research-oriented scope and limitations.
+- README rewritten to reflect scope and limitations.
 - Documentation reorganized for clarity and traceability.
 - Experiment layouts and metadata made more consistent.
 - Policies and modes aligned with documented architecture.
@@ -73,5 +73,4 @@ mechanisms are considered stable.
 ### Notes
 This release consolidates xLaDe’s structure and documentation.
 It does not introduce new experiments or tooling features.
-All components remain experimental, but architectural intent and
-repository organization are considered stable for reference and citation.
+All components remain experimental.
