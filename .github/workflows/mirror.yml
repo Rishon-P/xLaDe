@@ -43,7 +43,13 @@ jobs:
           echo "Pushing to SourceForge..."
           git push --mirror https://${{ secrets.SF_USER }}:${{ secrets.SF_TOKEN }}@git.code.sf.net/p/xlade/code || echo "SourceForge push failed"
 
-          echo "Pushing to SourceForge..."
-          git push --mirror https://${{ secrets.SF_USER }}:${{ secrets.SF_TOKEN }}@sourceforge.net/lakshitsinghbishttm/xlade || echo "SourceForge push failed"
+          echo "Setting up SourceForge SSH..."
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SF_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan git.code.sf.net >> ~/.ssh/known_hosts
 
-          echo "All mirror attempts have completed."
+          echo "Pushing to SourceForge..."
+          git push --mirror ssh://lakshitsbishttm@git.code.sf.net/p/xlade/code || echo "SourceForge push failed"
+
+          echo "All mirror attempts completed."
