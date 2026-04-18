@@ -46,4 +46,4 @@ jobs:
           echo "Pushing to SourceForge..."
           git push --mirror https://${{ secrets.SF_USER }}:${{ secrets.SF_TOKEN }}@sourceforge.net/lakshitsinghbishttm/xlade || echo "SourceForge push failed"
 
-          echo "All mirror attempts completed."
+          echo "All mirror attempts have completed."
