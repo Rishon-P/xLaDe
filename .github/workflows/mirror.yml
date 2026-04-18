@@ -40,9 +40,6 @@ jobs:
           echo "Pushing to Gitea..."
           git push --mirror https://${{ secrets.GITEA_TOKEN }}@gitea.com/$GH_USER/$REPO.git || echo "Gitea push failed"
 
-          echo "Pushing to SourceForge..."
-          git push --mirror https://${{ secrets.SF_USER }}:${{ secrets.SF_TOKEN }}@git.code.sf.net/p/xlade/code || echo "SourceForge push failed"
-
           echo "Setting up SourceForge SSH..."
           mkdir -p ~/.ssh
           echo "${{ secrets.SF_SSH_KEY }}" > ~/.ssh/id_ed25519
