@@ -73,6 +73,8 @@ To access the onion site:
 1. Install the Tor Browser: https://www.torproject.org/
 2. Open the onion URL listed above
 
+Note: Kindly download Tor from official channels only!
+
 ---
 
 ## Philosophy
