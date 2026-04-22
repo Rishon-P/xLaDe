@@ -16,19 +16,19 @@ This may include conceptual questions, design thoughts, technical concerns, or o
 
 ## Type of Entry
 
-- [ ] Bug / Technical issue  
-- [ ] Feature or enhancement idea  
-- [ ] Conceptual / research discussion  
-- [ ] Question  
+- [ ] Bug / Technical issue
+- [ ] Feature or enhancement idea
+- [ ] Conceptual / research discussion
+- [ ] Question
 
 ---
 
 ## Details (if applicable)
 
 If relevant, please describe:
-- What you expected  
-- What actually happened  
-- Any relevant context or assumptions  
+- What you expected
+- What actually happened
+- Any relevant context or assumptions 
 
 ---
 
@@ -48,6 +48,6 @@ Add any additional notes, references, screenshots, or related links.
 
 Only include if relevant:
 
-- OS:  
-- Lean version:  
+- OS:
+- Lean version:
 - xLaDe branch / commit:
