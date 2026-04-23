@@ -1,7 +1,7 @@
 # xLaDe: Experimental Lean 4 Ecosystem Framework
 
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)
-![Version](https://img.shields.io/badge/version-1.3.0-blue)
+![Version](https://img.shields.io/badge/version-1.4.0-blue)
 ![Status](https://img.shields.io/badge/status-experimental-orange)
 ![Lean](https://img.shields.io/badge/Lean-4-blue)
 ![Contributors](https://img.shields.io/github/contributors/LakshitSinghBishtTM/xLaDe?color=green)
@@ -38,7 +38,7 @@ Security and boundary assumptions:
 
 ## Current Version and Releases
 
-- **Current version:** `v1.3.0`
+- **Current version:** `v1.4.0`
 - **Version file:** [`VERSION`](VERSION)
 
 Release documentation:
@@ -269,10 +269,10 @@ This project is licensed under the GNU General Public License v3.0. See LICENSE 
 
 xLaDe is **experimental**.
 
-As of `v1.3.0`:
+As of `v1.4.0`:
 
-* most of the work focuses on documentation and policies
-* scripts and tools are planned for later stages
-* cli based app works but may be unstable
+* Primary focus is on mirrors and decentralisation currently
+* Experiments metadata is being collected at repo level to help in backward compatibility 
+* cli based app is still not stable
 
 xLaDe exists as a living laboratory for Lean ecosystem design.
