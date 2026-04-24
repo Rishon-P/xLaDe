@@ -48,5 +48,11 @@ This file mirrors GitHub Releases for archival and offline reference.
 - Added a dedicated folder for security instead of adding files directly in root folder, added two new documents
 - Imported project to gitlab for long term availability and usefulness. Added mirror list for officially suppported mirrors.
 
-### Stability
-Experimental. Structure and enforcement are stable; features may evolve.
+## v1.4.0 - 2026-04-27
+
+### Highlights
+- Added .toml for recording metadata in each experiments
+- Modified cli tool for running experiments
+- Added and configured mirrors to sync automatically (sourceforge remaining)
+- Restructured tools section for future modifications
+- Regular improvements in docs for updated info
