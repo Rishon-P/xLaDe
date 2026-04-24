@@ -212,7 +212,7 @@ xLaDe provides **reproducible builds by default**:
 
 * [`lean-toolchain`](lean-toolchain) pins Lean
 * [`lakefile.lean`](lakefile.lean) defines the root package
-* `lake-manifest.json` locks dependencies
+* [`lake-manifest.json`](lake-manifest.json) locks dependencies
 
 ---
 
