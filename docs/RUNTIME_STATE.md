@@ -26,7 +26,7 @@ Global state is stored in the user’s home directory:
 
 ```
 ~/.xlade/
-````
+```
 
 This directory contains **user-wide configuration and mode selection**.
 

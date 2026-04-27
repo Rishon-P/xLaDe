@@ -52,12 +52,12 @@ The threat model for xLaDe is defined with respect to its intended use as a loca
 
 The primary assets of interest are:
 
-* Integrity of the Lean~4 proof kernel
+* Integrity of the Lean 4 proof kernel
 * Correctness of proof verification
 
 #### Trusted Components
 
-* Lean4 kernel
+* Lean 4 kernel
 * Lean compiler and core toolchain
 
 These components are assumed to be correct and not adversarially modified.

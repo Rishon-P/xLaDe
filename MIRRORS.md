@@ -14,7 +14,7 @@ Mirrors are part of the project's distribution strategy, but they are **not auth
 
 * https://gitlab.com/LakshitSinghBishtTM/xLaDe
 
-### Codeburg
+### Codeberg
 
 * https://codeberg.org/lakshitsinghbishttm/xLaDe
 

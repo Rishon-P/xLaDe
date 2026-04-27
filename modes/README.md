@@ -92,7 +92,7 @@ The active mode is set globally via:
 
 ```
 xlade mode <onboarding|experimental|stable>
-````
+```
 
 The selected mode is stored in:
 

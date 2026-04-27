@@ -32,7 +32,7 @@ Known limitations:
 - [`LIMITATIONS.md`](LIMITATIONS.md)
 
 Security and boundary assumptions:
-- [`THREAT_MODEL.md`](THREAT_MODEL.md)
+- [`THREAT_MODEL.md`](security/THREAT_MODEL.md)
 
 ---
 
@@ -71,7 +71,7 @@ For details on trust, verification, and distribution:
 
 - [Official Sources](./OFFICIAL_SOURCES.md)
 - [Onion Service](./ONION.md)
-- [Security Model](./SECURITY_POLICY.md)
+- [Security Model](./security/SECURITY_POLICY.md)
 
 ---
 
@@ -135,7 +135,7 @@ xLaDe/
 ├── LICENSE               License information
 ├── README.md             Project overview
 └── VERSION               Current version
-````
+```
 
 ---
 
@@ -261,7 +261,7 @@ Copyright (C) 2026 Lakshit Singh Bisht
 
 This project is licensed under the GNU General Public License v3.0. See LICENSE for details.
 
-```Note: This project depends on Lean 4, which is licensed under the Apache License 2.0 and is included unmodified.```
+> **Note:** This project depends on Lean 4, which is licensed under the Apache License 2.0 and is included unmodified.
 
 ---
 
@@ -271,8 +271,8 @@ xLaDe is **experimental**.
 
 As of `v1.4.0`:
 
-* Primary focus is on mirrors and decentralisation currently
-* Experiments metadata is being collected at repo level to help in backward compatibility 
-* cli based app is still not stable
+* Primary focus is on mirrors and decentralization currently
+* Experiment metadata is being collected at repo level to help in backward compatibility
+* CLI-based app is still not stable
 
 xLaDe exists as a living laboratory for Lean ecosystem design.

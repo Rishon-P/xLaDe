@@ -27,7 +27,7 @@ Before running the demo, ensure that:
 
 ```
 chmod +x bin/xlade
-````
+```
 
 ---
 

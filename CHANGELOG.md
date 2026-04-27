@@ -79,29 +79,29 @@ All components remain experimental.
 
 ### Highlights
 - Made a functioning official site of xLaDe available at "http://xladeajfgkh32qgq5sj2mtmho3te5pivto7lav44dsbov6uduciz6hqd.onion/"
-- Added project on gitlab at "https://gitlab.com/lakshitsinghbishttm/xLaDe". Both github and gitlab versions will be synced.
+- Added project on GitLab at "https://gitlab.com/lakshitsinghbishttm/xLaDe". Both GitHub and GitLab versions will be synced.
 
 ### Added
 - Rationale behind choosing an onion site for xLaDe.
-- New examples of lean to try in xlade.
+- New examples of Lean to try in xLaDe.
 - Dedicated security folder.
 
 ### Changed
-- Docs to focus on the xlade functioning, limitations, contributions and readme.
+- Docs to focus on the xLaDe functioning, limitations, contributions and README.
 
 ### Notes
-This monthly release focuses mainly on organisation and official site of xLaDe and its integration with github repo instead of major code changes. xLaDe still is in its experimental stage.
+This monthly release focuses mainly on organization and official site of xLaDe and its integration with GitHub repo instead of major code changes. xLaDe still is in its experimental stage.
 
 ## [1.4.0] — 2026-04-27
 
 ### Highlights
-- Added metadata for each experiment to support backward compatibility in future (ongoing long term idea)
-- Modified cli tool to run experiments
+- Added metadata for each experiment to support backward compatibility in the future (ongoing long-term idea)
+- Modified CLI tool to run experiments
 
 ### Added
-- Mirrors to support decentralisation and reduce redundancy
+- Mirrors to support decentralization and reduce redundancy
 - Structured tools module
 - Docs explaining roadmap regarding backward compatibility
 
 ### Notes
-This monthly release makes cli tool execute experiments, but the testing of xlade cli hasn't been done properly, so problems may occur.
+This monthly release makes the CLI tool execute experiments, but the testing of the xLaDe CLI hasn't been done properly, so problems may occur.
