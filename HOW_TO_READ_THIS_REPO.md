@@ -45,7 +45,7 @@ None of these modify Lean’s kernel or core semantics.
 ## Intentionally Minimal Components
 
 - CLI execution
-- Qualitative metrices
+- Qualitative metrics
 - Few experiments
 - Lean code
 

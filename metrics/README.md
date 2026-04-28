@@ -52,7 +52,7 @@ metrics/
   README.md
   summary.md
   <metric-definition>.md
-````
+```
 
 Metric definitions are intentionally lightweight and descriptive at this stage.
 They may later be accompanied by structured data or automated collection tools.

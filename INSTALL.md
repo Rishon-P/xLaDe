@@ -24,7 +24,7 @@ git clone https://github.com/LakshitSinghBishtTM/xLaDe.git
 cd xLaDe
 ```
 
-Build with lake
+Build with Lake:
 
 ```
 lake update

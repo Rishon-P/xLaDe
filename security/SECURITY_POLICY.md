@@ -27,7 +27,7 @@ At this stage of the project:
 
 ## Reporting a Vulnerability
 
-Please refer to `docs/SECURITY.md`
+Please refer to `security/SECURITY.md`
 
 ---
 

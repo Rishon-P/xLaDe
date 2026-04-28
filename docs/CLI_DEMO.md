@@ -29,7 +29,7 @@ Many execution backends are intentionally **lightweight or stubbed** at this sta
 
 ## Note:
 
-Please download and build the Lean with lake, and other requirements before running xLaDe already explained in other docs, otherwise xLaDe won't run properly.
+Please download and build Lean with Lake, and fulfil the other requirements explained in other docs, before running xLaDe, otherwise xLaDe won't run properly.
 
 ## 1. Project Initialization
 
